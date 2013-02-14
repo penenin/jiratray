@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/myresources">
+        <file>stopwatch.png</file>
+    </qresource>
+</RCC>
